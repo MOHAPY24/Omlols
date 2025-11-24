@@ -21,8 +21,7 @@ def pick_model():
                     print("[X] Invalid model name")
                     return ""
             else:
-                print("Quitting..")
-                return ""
+                pass
 
         text = session.prompt('(Space for Tinyllama) > ')
 
