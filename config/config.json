@@ -1,0 +1,5 @@
+{
+    "verbose" : false,
+    "username" : "user",
+    "default_model" : "phi3:mini"
+}

@@ -1,3 +1,5 @@
 requests
 prompt-toolkit
 fuzzywuzzy
+colorama
+python-Levenshtein
