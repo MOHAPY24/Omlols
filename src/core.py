@@ -126,4 +126,4 @@ while True:
         #spinner_thread.join()
         f.close()
         exit(0)
-    f.close()
+f.close()
